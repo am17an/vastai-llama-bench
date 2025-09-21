@@ -1,6 +1,6 @@
 Run `llama-bench` over various GPUs using the [vastai](https://cloud.vast.ai/) CLI
 
-Vastai has multiple GPUs, including older architechtures like Volta and Pascal. This makes it ideal for `llama.cpp` development as one of the goals is broad hardware support.
+Vastai has multiple GPUs, including older architechtures like Volta and Pascal. This makes it ideal for `llama.cpp` development as one of the project's goals is broad hardware support.
 
 ## Steps 
 1. Copy your patch ( for eg. `git diff upstream/master > patch.diff`) into the local folder 
